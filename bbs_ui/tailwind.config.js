@@ -11,7 +11,9 @@ module.exports = {
         'ccc': '#ccc',
         'eee': '#eee',
         '999': '#999',
-        'honey-yellow': '#fbb957'
+        'honey-yellow': '#fbb957',
+        'blue-post': '#E5EDF2',
+        'blue-post-line': '#C2D5E3',
       },
     },
   },

@@ -42,7 +42,8 @@
                 <i class="el-icon-document text-xl text-honey-yellow"></i>
               </td>
               <td class="h-10 border-b border-ccc">
-                <span class="px-2 text-primary">[帖子种类]</span>帖子标题
+                <span class="px-2 text-primary">[帖子种类]</span>
+                <router-link to="/postDetail">帖子标题</router-link>
               </td>
               <td class="w-[145px] h-10 border-b border-ccc">
                 <p>Ace</p>
